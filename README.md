@@ -2,11 +2,12 @@
 (Minesweeper)
 
 (Brendan Tang)
-(Your partner's name (Greg Peng))
-
-Instructions: Explain what your project is, what it does, and how to use it.
-
-1) How Minesweeper works (The rules of the game needed to code it): 
+<!--(Your partner's name) --> 
+(Greg Peng)
+<!--Instructions: Explain what your project is, what it does, and how to use it.
+-->
+<!--(The rules of the game needed to code it) -->
+1) How Minesweeper works: 
 
     Rules:
         A) Minesweeper is a game with many tiles/cells, where a few of them of them contain mines. Each cell either has a number (amount of mines it's bordering within the 8 cell radius), is an empty space (has 0 cells next to it), or has a mine.
